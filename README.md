@@ -22,18 +22,6 @@ The fundamental value evolves via a **Geometric Brownian Motion (GBM)** process 
 
 ---
 
-## ⚙️ Model Structure
-
-**Key Components**
-- `main.py` — Entry point and simulation runner  
-- `agents.py` — Definitions of agent behaviors (trend, mean-reversion, fundamental, company)  
-- `market.py` — Market-clearing mechanism and price formation  
-- `utils.py` — Helper functions for plotting and analysis  
-- `/results/` — Auto-generated charts and metrics  
-- `requirements.txt` — Dependencies  
-
----
-
 ## 🚀 Running the Simulation
 
 ### 1. Clone or Fork the Repository
