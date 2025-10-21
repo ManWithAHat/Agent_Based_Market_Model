@@ -21,17 +21,6 @@ Key emergent behaviors:
 
 ---
 
-## ⚙️ Structure
-
-├── main.py # Entry point of the simulation
-├── agents.py # Agent class definitions and decision rules
-├── market.py # Market clearing and price formation logic
-├── utils.py # Statistical analysis and plotting functions
-├── /results # Auto-generated charts and metrics
-├── requirements.txt # Python dependencies
-└── README.md # This file
-
-
 ## 🚀 Quick Start
 
 ### 1. Clone or Fork the Repository
